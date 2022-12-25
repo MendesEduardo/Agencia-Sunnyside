@@ -145,7 +145,7 @@ section .info-stand {
 }
 
 section img {
-  max-width: 675px;
+  max-width: 720px;
 }
 
 section .img-stand img,
@@ -204,7 +204,7 @@ section .img-orange,
 section .img-cereja {
   background-image: url("./images/desktop/image-graphic-design.jpg");
   background-size: cover;
-  width: 675px;
+  width: 720px;
   height: 550px;
   text-align: center;
 }
