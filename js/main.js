@@ -107,7 +107,7 @@ function figure() {
 
 function footer() {
   return `
-    <h1>sunnyside</h1>
+    <img src="images/logo.svg" alt="logo">
     <nav class="bottomnav">
       <a href="#">About</a>
       <a href="#">Services</a>
